@@ -13,6 +13,6 @@ namespace WpfApp3
     /// </summary>
     public partial class App : Application
     {
-
+        //TEST
     }
 }
